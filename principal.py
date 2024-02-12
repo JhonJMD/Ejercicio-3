@@ -41,6 +41,7 @@ if __name__ == '__main__':
         except ValueError:
             print('Dato incorrecto')
             os.system('pause')
+    os.system('cls')
     header = """
             ****************************************
             *        REPORTE DE ESTUDIANTES        *
